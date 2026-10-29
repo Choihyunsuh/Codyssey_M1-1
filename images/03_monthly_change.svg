@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,"Noto Sans KR",sans-serif;fill:#263238}.small{font-size:12px}.label{font-size:14px}.title{font-size:20px;font-weight:700}.grid{stroke:#dfe5eb;stroke-width:1}.axis{stroke:#62717d;stroke-width:1}</style>
+<text x="72" y="34" class="title">월말 환율 기준 월간 변화율</text>
+<line x1="88" y1="570.0" x2="1160" y2="570.0" class="grid"/>
+<text x="78" y="574.0" text-anchor="end" class="small">-8.7%</text>
+<line x1="88" y1="447.0" x2="1160" y2="447.0" class="grid"/>
+<text x="78" y="451.0" text-anchor="end" class="small">-4.3%</text>
+<line x1="88" y1="324.0" x2="1160" y2="324.0" class="grid"/>
+<text x="78" y="328.0" text-anchor="end" class="small">0.0%</text>
+<line x1="88" y1="201.0" x2="1160" y2="201.0" class="grid"/>
+<text x="78" y="205.0" text-anchor="end" class="small">4.3%</text>
+<line x1="88" y1="78.0" x2="1160" y2="78.0" class="grid"/>
+<text x="78" y="82.0" text-anchor="end" class="small">8.7%</text>
+<line x1="88" y1="324.0" x2="1160" y2="324.0" class="axis"/>
+<line x1="88" y1="78" x2="88" y2="570" class="axis"/>
+<line x1="88" y1="570" x2="1160" y2="570" class="axis"/>
+<rect x="90.9" y="293.9" width="12.1" height="30.1" fill="#277da1"/>
+<text x="96.9" y="594" text-anchor="middle" class="small">2021-11</text>
+<rect x="108.7" y="321.3" width="12.1" height="2.7" fill="#277da1"/>
+<rect x="126.6" y="280.7" width="12.1" height="43.3" fill="#277da1"/>
+<text x="132.7" y="594" text-anchor="middle" class="small">2022-01</text>
+<rect x="144.5" y="324.0" width="12.1" height="10.5" fill="#e76f51"/>
+<rect x="162.3" y="302.2" width="12.1" height="21.8" fill="#277da1"/>
+<rect x="180.2" y="220.5" width="12.1" height="103.5" fill="#277da1"/>
+<rect x="198.1" y="324.0" width="12.1" height="42.6" fill="#e76f51"/>
+<rect x="215.9" y="182.2" width="12.1" height="141.8" fill="#277da1"/>
+<rect x="233.8" y="323.7" width="12.1" height="1.0" fill="#277da1"/>
+<rect x="251.7" y="237.8" width="12.1" height="86.2" fill="#277da1"/>
+<rect x="269.5" y="127.5" width="12.1" height="196.5" fill="#277da1"/>
+<rect x="287.4" y="324.0" width="12.1" height="14.0" fill="#e76f51"/>
+<rect x="305.3" y="324.0" width="12.1" height="213.9" fill="#e76f51"/>
+<rect x="323.1" y="324.0" width="12.1" height="121.7" fill="#e76f51"/>
+<rect x="341.0" y="324.0" width="12.1" height="63.4" fill="#e76f51"/>
+<text x="347.1" y="594" text-anchor="middle" class="small">2023-01</text>
+<rect x="358.9" y="114.0" width="12.1" height="210.0" fill="#277da1"/>
+<rect x="376.7" y="324.0" width="12.1" height="42.0" fill="#e76f51"/>
+<rect x="394.6" y="248.9" width="12.1" height="75.1" fill="#277da1"/>
+<rect x="412.5" y="324.0" width="12.1" height="29.3" fill="#e76f51"/>
+<rect x="430.3" y="324.0" width="12.1" height="14.4" fill="#e76f51"/>
+<rect x="448.2" y="324.0" width="12.1" height="94.3" fill="#e76f51"/>
+<rect x="466.1" y="216.2" width="12.1" height="107.8" fill="#277da1"/>
+<rect x="483.9" y="269.6" width="12.1" height="54.4" fill="#277da1"/>
+<rect x="501.8" y="317.3" width="12.1" height="6.7" fill="#277da1"/>
+<rect x="519.7" y="324.0" width="12.1" height="127.9" fill="#e76f51"/>
+<rect x="537.5" y="321.8" width="12.1" height="2.2" fill="#277da1"/>
+<rect x="555.4" y="227.8" width="12.1" height="96.2" fill="#277da1"/>
+<text x="561.5" y="594" text-anchor="middle" class="small">2024-01</text>
+<rect x="573.3" y="321.3" width="12.1" height="2.7" fill="#277da1"/>
+<rect x="591.1" y="301.0" width="12.1" height="23.0" fill="#277da1"/>
+<rect x="609.0" y="250.9" width="12.1" height="73.1" fill="#277da1"/>
+<rect x="626.9" y="316.8" width="12.1" height="7.2" fill="#277da1"/>
+<rect x="644.7" y="324.0" width="12.1" height="18.1" fill="#e76f51"/>
+<rect x="662.6" y="324.0" width="12.1" height="14.9" fill="#e76f51"/>
+<rect x="680.5" y="324.0" width="12.1" height="68.8" fill="#e76f51"/>
+<rect x="698.3" y="324.0" width="12.1" height="44.6" fill="#e76f51"/>
+<rect x="716.2" y="189.3" width="12.1" height="134.7" fill="#277da1"/>
+<rect x="734.1" y="284.1" width="12.1" height="39.9" fill="#277da1"/>
+<rect x="751.9" y="160.3" width="12.1" height="163.7" fill="#277da1"/>
+<rect x="769.8" y="324.0" width="12.1" height="45.9" fill="#e76f51"/>
+<text x="775.9" y="594" text-anchor="middle" class="small">2025-01</text>
+<rect x="787.7" y="313.9" width="12.1" height="10.1" fill="#277da1"/>
+<rect x="805.5" y="294.2" width="12.1" height="29.8" fill="#277da1"/>
+<rect x="823.4" y="324.0" width="12.1" height="93.5" fill="#e76f51"/>
+<rect x="841.3" y="324.0" width="12.1" height="88.4" fill="#e76f51"/>
+<rect x="859.1" y="324.0" width="12.1" height="56.6" fill="#e76f51"/>
+<rect x="877.0" y="234.8" width="12.1" height="89.2" fill="#277da1"/>
+<rect x="894.9" y="324.0" width="12.1" height="13.0" fill="#e76f51"/>
+<rect x="912.7" y="293.7" width="12.1" height="30.3" fill="#277da1"/>
+<rect x="930.6" y="276.2" width="12.1" height="47.8" fill="#277da1"/>
+<rect x="948.5" y="246.2" width="12.1" height="77.8" fill="#277da1"/>
+<rect x="966.3" y="324.0" width="12.1" height="44.5" fill="#e76f51"/>
+<rect x="984.2" y="324.0" width="12.1" height="1.0" fill="#e76f51"/>
+<text x="990.3" y="594" text-anchor="middle" class="small">2026-01</text>
+<rect x="1002.1" y="324.0" width="12.1" height="9.2" fill="#e76f51"/>
+<rect x="1019.9" y="159.6" width="12.1" height="164.4" fill="#277da1"/>
+<rect x="1037.8" y="324.0" width="12.1" height="84.6" fill="#e76f51"/>
+<rect x="1055.7" y="274.2" width="12.1" height="49.8" fill="#277da1"/>
+<rect x="1073.5" y="239.7" width="12.1" height="84.3" fill="#277da1"/>
+<rect x="1091.4" y="324.0" width="12.1" height="204.4" fill="#e76f51"/>
+<rect x="1109.3" y="324.0" width="12.1" height="134.9" fill="#e76f51"/>
+<rect x="1127.1" y="324.0" width="12.1" height="25.5" fill="#e76f51"/>
+<rect x="1145.0" y="324.0" width="12.1" height="64.3" fill="#e76f51"/>
+<text x="1151.1" y="594" text-anchor="middle" class="small">2026-10</text>
+<text x="22" y="324.0" transform="rotate(-90 22 324.0)" text-anchor="middle" class="label">전월 말 대비 변화율(%)</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,"Noto Sans KR",sans-serif;fill:#263238}.small{font-size:12px}.label{font-size:14px}.title{font-size:20px;font-weight:700}.grid{stroke:#dfe5eb;stroke-width:1}.axis{stroke:#62717d;stroke-width:1}</style>
+<text x="72" y="34" class="title">월별 평균 원/달러 환율</text>
+<line x1="88" y1="570.0" x2="1160" y2="570.0" class="grid"/>
+<text x="78" y="574.0" text-anchor="end" class="small">1,147</text>
+<line x1="88" y1="471.6" x2="1160" y2="471.6" class="grid"/>
+<text x="78" y="475.6" text-anchor="end" class="small">1,229</text>
+<line x1="88" y1="373.2" x2="1160" y2="373.2" class="grid"/>
+<text x="78" y="377.2" text-anchor="end" class="small">1,311</text>
+<line x1="88" y1="274.8" x2="1160" y2="274.8" class="grid"/>
+<text x="78" y="278.8" text-anchor="end" class="small">1,393</text>
+<line x1="88" y1="176.4" x2="1160" y2="176.4" class="grid"/>
+<text x="78" y="180.4" text-anchor="end" class="small">1,476</text>
+<line x1="88" y1="78.0" x2="1160" y2="78.0" class="grid"/>
+<text x="78" y="82.0" text-anchor="end" class="small">1,558</text>
+<line x1="88" y1="78" x2="88" y2="570" class="axis"/>
+<line x1="88" y1="570" x2="1160" y2="570" class="axis"/>
+<line x1="88.0" y1="570" x2="88.0" y2="575" class="axis"/>
+<text x="88.0" y="595" text-anchor="middle" class="small">2021-10</text>
+<line x1="195.2" y1="570" x2="195.2" y2="575" class="axis"/>
+<text x="195.2" y="595" text-anchor="middle" class="small">2022-04</text>
+<line x1="302.4" y1="570" x2="302.4" y2="575" class="axis"/>
+<text x="302.4" y="595" text-anchor="middle" class="small">2022-10</text>
+<line x1="409.6" y1="570" x2="409.6" y2="575" class="axis"/>
+<text x="409.6" y="595" text-anchor="middle" class="small">2023-04</text>
+<line x1="516.8" y1="570" x2="516.8" y2="575" class="axis"/>
+<text x="516.8" y="595" text-anchor="middle" class="small">2023-10</text>
+<line x1="624.0" y1="570" x2="624.0" y2="575" class="axis"/>
+<text x="624.0" y="595" text-anchor="middle" class="small">2024-04</text>
+<line x1="731.2" y1="570" x2="731.2" y2="575" class="axis"/>
+<text x="731.2" y="595" text-anchor="middle" class="small">2024-10</text>
+<line x1="838.4" y1="570" x2="838.4" y2="575" class="axis"/>
+<text x="838.4" y="595" text-anchor="middle" class="small">2025-04</text>
+<line x1="945.6" y1="570" x2="945.6" y2="575" class="axis"/>
+<text x="945.6" y="595" text-anchor="middle" class="small">2025-10</text>
+<line x1="1052.8" y1="570" x2="1052.8" y2="575" class="axis"/>
+<text x="1052.8" y="595" text-anchor="middle" class="small">2026-04</text>
+<line x1="1160.0" y1="570" x2="1160.0" y2="575" class="axis"/>
+<text x="1160.0" y="595" text-anchor="middle" class="small">2026-10</text>
+<text x="22" y="324.0" transform="rotate(-90 22 324.0)" text-anchor="middle" class="label">원/달러 (원)</text>
+<polyline fill="none" stroke="#277da1" stroke-width="2" points="88.0,536.1 105.9,525.2 123.7,525.4 141.6,510.8 159.5,507.1 177.3,481.2 195.2,464.0 213.1,423.8 230.9,413.5 248.8,376.8 266.7,363.2 284.5,271.2 302.4,235.6 320.3,312.5 338.1,394.2 356.0,454.6 373.9,415.9 391.7,379.3 409.6,360.1 427.5,353.6 445.3,389.7 463.2,407.6 481.1,360.4 498.9,345.5 516.8,324.8 534.7,376.7 552.5,381.2 570.4,355.5 588.3,349.0 606.1,348.6 624.0,305.3 641.9,309.0 659.7,291.9 677.6,288.3 695.5,324.9 713.3,349.7 731.2,311.8 749.1,272.8 766.9,219.0 784.8,204.4 802.7,213.2 820.5,197.0 838.4,219.2 856.3,277.1 874.1,309.1 892.0,291.6 909.9,280.0 927.7,275.3 945.6,239.2 963.5,195.2 981.3,188.6 999.2,200.4 1017.1,210.2 1034.9,158.5 1052.8,166.6 1070.7,161.1 1088.5,111.9 1106.4,163.9 1124.3,263.0 1142.1,315.6 1160.0,340.5"/>
+<line x1="88" y1="625" x2="114" y2="625" stroke="#277da1" stroke-width="3"/>
+<text x="122" y="630" class="small">월별 평균</text>
+</svg>
